@@ -1,0 +1,1 @@
+# AICP-internship-task-5-Search-Queries-Anomaly-Detection-
